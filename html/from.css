@@ -1,0 +1,22 @@
+body{
+	background:#eaff56 url(../images/diss.jpg) right -50px no-repeat;
+	margin: 20px;
+	font-family:  "Microsoft Yahei","宋体";
+}
+
+form{
+	display: table;
+	padding: 10px;
+	border: thin dotted black;
+    background-color: #88ada6;
+    font-size: 120%;
+}
+
+h1{
+    font-size: 300%;
+}
+
+form textarea{
+	width: 600px;
+	height: 300px;
+}

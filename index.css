@@ -1,0 +1,128 @@
+body{font-family: "Microsoft Yahei","宋体";
+    font-size: normal;
+    background-color: #3d3b4f;
+    margin: 0px;
+}
+
+header{
+    background-color: #801dae;
+    margin: 10px;       
+    height: 159px;
+    text-align: center;
+}
+
+#award{
+    position: absolute;
+    top: -10px;
+    right: 50px;
+}
+
+nav{background-color: #4b5cc4;
+    margin: 0px 10px 0px 10px;
+    font-size: 150%;
+}
+nav ul{margin: 10px;
+    list-style-type: none;
+    padding: 5px 0px 5px 0px
+}
+nav ul li{
+    display: inline;
+    padding: 5px 10px 5px 10px 
+}
+
+#main{
+    background-color: #b0a4e3;
+    font-size: 105%;
+    padding: 15px;
+    margin: 0px 10px 10px 10px;
+    width: 500px; 
+    float: left;
+    height: 920px;
+}
+
+aside{
+    background-color: #cca4e3;
+    font-size: 105%;
+    padding: 15px;
+    margin: 0px 10px 10px 10px;
+    height: 920px;
+    width: 500px;
+    float: left;
+}
+
+#jianjie{
+    background-color: #a1afc9;
+    font-size: 105%;
+    padding: 15px;
+    margin: 0px 10px 10px 10px;
+    height: 920px;
+    width: 500px;  
+    text-align: center; 
+    float: left;
+}
+
+footer{
+    background-color: #801dae;
+    margin: 10px;
+    height: 70px;
+    text-align: center;
+    font-size: 150%;
+    clear: left;
+}
+
+.aim{ background-color: black;
+    font-size: 150%;
+    color: #ff2d51; }
+
+.p1{
+    text-align: center;
+    line-height: 2em;
+}
+
+.p2{ text-align: center; 
+   font-style: italic;
+}
+
+strong{color:#ff2d51; }
+
+h1{color: #3d3b4f;
+text-decoration: underline;
+}
+
+a{color:#c0ebd7;}
+
+#all{
+    width: 1650px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#sm{
+    text-align: center;
+}
+
+#hb{text-align: center;}
+
+table{
+    border: thin solid black;
+    border-collapse: collapse; 
+}
+td,th{
+    border: thin dotted black;
+    padding: 5px; 
+}
+caption{
+    font-size: 120%;
+    font-style: italic;
+    padding-top: 5px;
+    background-color: white;
+}
+th{background-color: #c60;}
+.white{background-color: white;}
+.cell{background-color: #fcba7a;}
+.red{background-color: red;}
+
+#smp{background-color: white;}
+

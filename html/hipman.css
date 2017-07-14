@@ -1,0 +1,67 @@
+body{
+	font-family: "Microsoft Yahei","宋体";
+    font-size: normal;
+    background-image: url(../images/bz.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin: 0px;
+}
+
+header{
+    background-color: #801dae;
+    margin: 10px;       
+    height: 159px;
+    text-align: center;
+}
+
+#all{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+#hip1{
+    background-color: #b0a4e3;
+    padding: 15px;
+    margin: 0px 10px 10px 10px;
+    float: left;
+    text-align: center;
+}
+
+#hip2{
+    background-color: #b0a4e3;
+    padding: 15px;
+    margin: 0px 10px 10px 10px;
+    float: left;
+    text-align: center;
+}
+
+#hip3{
+    background-color: #b0a4e3;
+    font-size: 120%;
+    padding: 15px;
+    margin: 0px 10px 10px 10px;
+    float: left;
+}
+
+#hip4{
+    background-color: #b0a4e3;
+    font-size: 100%;
+    padding: 15px;
+    margin: 0px 10px 10px 10px;
+    float: left;
+    text-align: center;
+}
+
+footer{
+    background-color: #801dae;
+    margin: 10px;
+    height: 70px;
+    text-align: center;
+    font-size: 150%;
+    clear: left;
+}
+
+strong{color:#ff2d51; }
